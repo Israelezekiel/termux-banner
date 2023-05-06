@@ -14,7 +14,7 @@ red='\e[1;31m'
 yellow='\e[1;33m'
 echo -e $lightgreen "\e[1m                israelezekiel "
 echo " "
-echo -e $yellow "\e[1m                         -israel_hacks "
+echo -e $yellow "\e[1m                         -israel_hack's "
 echo " "
 echo " "
 echo " "
